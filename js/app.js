@@ -12,7 +12,7 @@ const color = document.querySelector('#color')
 
 const resultado = document.querySelector('#resultado')
 
-const max = new Date().getFullYear()
+const max = 2020
 const min = max - 20
 
 // Generar un objeto con la búsqueda
